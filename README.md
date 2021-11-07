@@ -7,10 +7,13 @@ Deze website hebben we gemaakt  voor de groepsopdracht Squad-Pages. De opdracht 
 
 
 ##  Analysefase
- 
+ Onze doel is om een Squadpagina te maken waar er tentoongesteld wie de opleiding FDND volgt.Ook is het belangrijk om een helder beeld te geven over de visitekaartjes die onze medestudenten hebben gebouwd.Wij hebben 
+ verwachting:  In teamverband een Squadpagina maken 
 
 ## Ontwerpfase
+<img width="312" height="305" alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140663650-1bf9414d-5b45-44a2-bfce-3212b0eefbdf.jpeg">
 
+ 
 ## Bouwfase
 
 ## Integreren
