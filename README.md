@@ -1,29 +1,26 @@
-> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Squadpage Team Bra1n 
 
 ## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐-->
-<!-- Voeg een mooie poster visual toe 📸 -->
+Deze website hebben we gemaakt  voor de groepsopdracht Squad-Pages. De opdracht was om een squadpage te maken van de klas met een verzameling van alle visitekaartjes. Wij als team Bra1n hebben gekozen voor een stapel kaarten met iedereen als een appart kaartje. Je kunt op een student klikken om de volgende kaart te krijgen met een foto van de volgende student. Verder is er aan de rechterkant  een Searchvak  waar alle namen in een lijst zitten. De namen in de searchbar zijn links naar de visitekaartje van de begunstigde. Ook  is er een kop "Bra1n" onder Search waar in staat hoe wij aan deze thema zijn gekomen. Verder zijn er twee koppen onder aan met Team 2 en Team 3 die links zijn naar de Squadpage van onze medestudenten.   
+![image](https://user-images.githubusercontent.com/76013244/140654987-0f843897-12c3-4f95-8ab5-c046428db438.png)
 
-## Inhoudsopgave
 
-- [Titel](#titel)
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+##  Analysefase
+ 
 
-## Kenmerken
+## Ontwerpfase
 
-## Installatie
+## Bouwfase
 
-## Gebruik
+## Integreren
+
+## Testen 
 
 ## Bronnen
-
+https://teambank.student.fdnd.nl/
+http://vaporwave.student.fdnd.nl/
+Beau, Daan, Jean, Yasser en Armando
 ## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
