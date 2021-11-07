@@ -18,7 +18,9 @@ Deze website hebben we gemaakt  voor de groepsopdracht Squad-Pages. De opdracht 
 ## Testen 
 
 ## Bronnen
-
+https://teambank.student.fdnd.nl/
+http://vaporwave.student.fdnd.nl/
+Beau, Daan, Jean, Yasser en Armando
 ## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
