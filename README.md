@@ -12,6 +12,8 @@ Deze website hebben we gemaakt  voor de groepsopdracht Squad-Pages. De opdracht 
 
 ## Ontwerpfase
 <img width="312" height="305" alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140663650-1bf9414d-5b45-44a2-bfce-3212b0eefbdf.jpeg">
+<img width="312" height="305" alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140663794-4bca308d-60e7-4102-84f2-0366b32af331.jpeg">
+ 
 
  
 ## Bouwfase
