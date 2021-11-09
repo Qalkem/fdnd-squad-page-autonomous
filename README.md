@@ -15,12 +15,18 @@ Deze website hebben we gemaakt  voor de groepsopdracht Squad-Pages. De opdracht 
 <img width="312" height="305" alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/76013244/140663794-4bca308d-60e7-4102-84f2-0366b32af331.jpeg">
  
 
+
  
 ## Bouwfase
 
+In de bouwfase hebben ik vooral opgelet om gebruik  te maken van : cascade, inheritence en semantiek. 
+
 ## Integreren
+Bij de integreer fase heb ik feedback gezocht bij de opdrachtegever( wat kan beter).
 
 ## Testen 
+
+Bij testen heb ik gekeken of alles werkt zoals bedoeld.
 
 ## Bronnen
 https://teambank.student.fdnd.nl/
